@@ -7,10 +7,10 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-https://mail.google.com/mail/u/0/?ui=2&ik=8d281d8642&view=att&th=1624ef14e0bb92d0&attid=0.1&disp=safe&realattid=1624ef1387827b186be3&zw
-https://mail.google.com/mail/u/0/?ui=2&ik=8d281d8642&view=att&th=1624ef14e0bb92d0&attid=0.4&disp=safe&realattid=1624ef1388327a36f3d4&zw
-https://mail.google.com/mail/u/0/?ui=2&ik=8d281d8642&view=att&th=1624ef14e0bb92d0&attid=0.3&disp=safe&realattid=1624ef1386b27bf9e3f2&zw
-https://mail.google.com/mail/u/0/?ui=2&ik=8d281d8642&view=att&th=1624ef14e0bb92d0&attid=0.2&disp=safe&realattid=1624ef1385e27cdb5c01&zw
+https://github.com/IndiraMur/liftoff-assignments/blob/master/P3-Project_Planning/IMAG4840.jpg
+https://github.com/IndiraMur/liftoff-assignments/blob/master/P3-Project_Planning/IMAG4841.jpg
+https://github.com/IndiraMur/liftoff-assignments/blob/master/P3-Project_Planning/IMAG4842.jpg
+https://github.com/IndiraMur/liftoff-assignments/blob/master/P3-Project_Planning/IMAG4843.jpg
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
