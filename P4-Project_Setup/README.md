@@ -8,4 +8,7 @@ https://github.com/IndiraMur/KashiHomeFood.git
 
 ### Project Repository
 https://github.com/IndiraMur/KashiHomeFood.git
+user stories
+https://trello.com/b/kbO4TuAI/kashis-home-food
+
 Change this text with a link to your project repository here. Also add a README.md file to your project repository.
