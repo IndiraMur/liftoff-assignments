@@ -8,9 +8,13 @@ For this assignment you will need to upload your resume, and provide links to yo
 
 ### GitHub
 Provide a link to your GitHub account here.
+https://github.com/IndiraMur
 
 ### LinkedIn
 Provide a link to your LinkedIn account here.
+www.linkedin.com/in/indira-murugan-74349b152
+
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+
