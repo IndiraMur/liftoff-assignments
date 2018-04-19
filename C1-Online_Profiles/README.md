@@ -17,4 +17,6 @@ www.linkedin.com/in/indira-murugan-74349b152
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
+ 
 https://github.com/IndiraMur/liftoff-assignments/blob/master/C1-Online_Profiles/Indira%20Murugan_Resume.pdf
+

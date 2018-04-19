@@ -16,4 +16,5 @@ https://github.com/IndiraMur/liftoff-assignments/blob/master/P3-Project_Planning
 
 ### Project Tracker
 https://trello.com/b/kbO4TuAI/kashis-home-food
+https://www.pivotaltracker.com/n/projects/2158856
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
